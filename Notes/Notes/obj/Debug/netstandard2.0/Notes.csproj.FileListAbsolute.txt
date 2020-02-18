@@ -1,0 +1,13 @@
+D:\Marcelo_3Q-DS\PAMII\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.deps.json
+D:\Marcelo_3Q-DS\PAMII\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.dll
+D:\Marcelo_3Q-DS\PAMII\Notes\Notes\Notes\bin\Debug\netstandard2.0\ref\Notes.dll
+D:\Marcelo_3Q-DS\PAMII\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.pdb
+D:\Marcelo_3Q-DS\PAMII\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.csprojAssemblyReference.cache
+D:\Marcelo_3Q-DS\PAMII\Notes\Notes\Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Marcelo_3Q-DS\PAMII\Notes\Notes\Notes\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Marcelo_3Q-DS\PAMII\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfoInputs.cache
+D:\Marcelo_3Q-DS\PAMII\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfo.cs
+D:\Marcelo_3Q-DS\PAMII\Notes\Notes\Notes\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Marcelo_3Q-DS\PAMII\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.dll
+D:\Marcelo_3Q-DS\PAMII\Notes\Notes\Notes\obj\Debug\netstandard2.0\ref\Notes.dll
+D:\Marcelo_3Q-DS\PAMII\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.pdb
